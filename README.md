@@ -1,20 +1,25 @@
 ## Привет 👋
 
 ### Обо мне
-Занимаюсь разработкой программ, специализируюсь на C#.
+C#/.NET-разработчик с опытом fullstack-разработки мультиплатформенных информационных систем – backend на C# (ASP.NET Core + Entity Framework Core), СУБД PostgreSQL, настольные приложения на Avalonia, frontend веб-сайтов на Vue.js.
 
 ### Основной стек технологий
-Backend: C#, ASP.NET Core, Entity Framework Core, СУБД PostgreSQL
+- Backend: C#, .NET, ASP.NET Core Web API, ORM Entity Framework Core
+- Frontend: Vue.js, TypeScript
+- Базы данных: PostgreSQL
+- Desktop: Avalonia, WPF
+- Тестирование: xUnit, NSubstitute
+- Docker, Docker Compose
+- Инструменты: Rider, Postman, Swagger, Git, Visual Studio Code, Linux терминал (Bash)
 
-Frontend: Avalonia, WPF, CSS, HTML, Vue.js + TypeScript
-
-Testing: Selenium (C#), XUnit, Postman
-
-Other: Git, UML
-
-### Имею опыт 
-Kotlin (мобильная разработка для Android), Blazor, Java, Spring, MySQL, MSSQL (SQL Server), Next.js, React.js
-
+### Имею опыт работы на базовом уровне
+- Backend: Micro-ORM Dapper
+- Автоматизация тестирования веб-сайтов: Selenium (C#)
+- Frontend: Blazor, React.js, Next.js
+- Мобильная разработка: Kotlin (Android)
+- Базы данных: MS SQL Server, MySQL
+- Проектирование: UML
+- Брокеры сообщений: RabbitMQ, Kafka
 
 ### Проекты
 - **[CourseBuilder](https://github.com/Afya2208/CourseBuilder)** - платформа онлайн-курсов, веб-сайт для создания и изучения курсов
